@@ -1,0 +1,13 @@
+.data {
+    display: flex;
+    flex-direction: column;
+}
+
+.data__list {
+    display: flex;
+    justify-content: center;
+}
+
+.data__get-data-btn {
+    width: 100px;
+}
